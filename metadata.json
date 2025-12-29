@@ -1,0 +1,5 @@
+{
+  "name": "AI Room Designer",
+  "description": "An intelligent interior design tool that generates 2D layouts and photorealistic 3D visualizations using Gemini AI.",
+  "requestFramePermissions": []
+}
